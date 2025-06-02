@@ -7,7 +7,7 @@
   customerAge ++;
   console.log(customerAge);
 
-  let productInStock: number;
+  let productInStock: number = 0;
   console.log(productInStock);
 
 
